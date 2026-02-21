@@ -1,0 +1,6 @@
+[submodule "UnCloud-India"]
+	path = UnCloud-India
+	url = https://github.com/enterGulshan/UnCloud-India.git
+[submodule "UnCloud-India-Backend"]
+	path = UnCloud-India-Backend
+	url = https://github.com/enterGulshan/UnCloud-India-Backend.git
